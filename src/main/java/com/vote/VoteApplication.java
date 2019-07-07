@@ -11,7 +11,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableJpaRepositories(basePackages = {"com.vote.repository"})
 @EntityScan(basePackages = {"com.vote.model"})
 public class VoteApplication {
-
+//TestAMIN
     public static void main(String[] args) {
         SpringApplication.run(VoteApplication.class, args);
     }
