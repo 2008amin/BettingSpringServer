@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 public class VoteApplication {
 
     public static void main(String[] args) {
+        //aaaa
         SpringApplication.run(VoteApplication.class, args);
     }
 }
